@@ -1,5 +1,6 @@
 <div align="left">
-  # CUSTOM-DATEPICKER
+
+# CUSTOM-DATEPICKER
 
 ## Overview
 The CUSTOM-DATEPICKER project is a date picker tool that allows users to select date or write date and displays the date, month, and time in Croatian.
