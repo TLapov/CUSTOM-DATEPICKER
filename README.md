@@ -9,4 +9,7 @@ The CUSTOM-DATEPICKER project is a date picker tool that allows users to select 
 - **HTML**: For the structure of the application.
 - **CSS**: For styling the application.
 - **JavaScript**: For implementing the functionality and interactivity.
+  
+[**Demo**](https://tlapov.github.io/CUSTOM-DATEPICKER/)
+
 </div>
