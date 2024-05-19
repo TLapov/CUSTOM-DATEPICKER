@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Custom date picker</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="datepicker-container">
+        <input type="text" name="datepicker-input" placeholder="dd/mm/yyyy">
+        <div class="datepicker-icon" style="cursor: pointer;">
+            <img 
+                src="./assets/calendar-picker.svg" 
+                alt="datepicker-icon"    
+                height="18px" 
+                width="18px"
+            >
+        </div>
+        <div class="calendar-container"></div>
+    </div>
+</body>
+<script type="module" src="app.js"></script>
+</html>
